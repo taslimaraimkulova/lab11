@@ -1,0 +1,54 @@
+#text{
+	position: absolute;
+	width: 629px;
+	height: 664px;
+	left: 175px;
+	top: 294px;
+}
+#saly{
+	position: absolute;
+	left: 0%;
+	right: 0%;
+	top: 0%;
+	bottom: 0%;
+}
+.text1{
+	position: absolute;
+	width: 396px;
+	height: 240px;
+	left: 175px;
+	top: 294px;
+}
+.upper{
+	position: absolute;
+	width: 396px;
+	height: 133px;
+	left: 175px;
+	top: 294px;
+}
+h1{
+	position: absolute;
+	width: 231px;
+	height: 75px;
+	left: 175px;
+	top: 294px;
+
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 50px;
+	line-height: 75px;
+}
+h2{
+	position: absolute;
+	width: 396px;
+	height: 53px;
+	left: 175px;
+	top: 374px;
+
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 35px;
+	line-height: 52px;
+}
